@@ -1,2 +1,3 @@
 # Android_workshop
 Welcome to my Android Workshop Repository, where I showcase the projects and code snippets I developed during an immersive Android development workshop conducted by Candella. 
+Through hands-on sessions and informative lectures, I gained a comprehensive understanding of Android app development, covering UI design, application logic, data persistence, and backend integration. The repository is organized into different sections, highlighting each project's purpose, implementation details, and screenshots, as well as offering code snippets with explanations and usage instructions. This repository not only represents my coding journey but also provides valuable insights and resources for fellow fresher Android developers.
